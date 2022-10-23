@@ -1,0 +1,7 @@
+%{
+  "file_system": {:hex, :file_system, "0.2.10", "fb082005a9cd1711c05b5248710f8826b02d7d1784e7c3451f9c1231d4fc162d", [:mix], [], "hexpm", "41195edbfb562a593726eda3b3e8b103a309b733ad25f3d642ba49696bf715dc"},
+  "jason": {:hex, :jason, "1.4.0", "e855647bc964a44e2f67df589ccf49105ae039d4179db7f6271dfd3843dc27e6", [:mix], [{:decimal, "~> 1.0 or ~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "79a3791085b2a0f743ca04cec0f7be26443738779d09302e01318f97bdb82121"},
+  "mix_test_watch": {:hex, :mix_test_watch, "1.1.0", "330bb91c8ed271fe408c42d07e0773340a7938d8a0d281d57a14243eae9dc8c3", [:mix], [{:file_system, "~> 0.2.1 or ~> 0.3", [hex: :file_system, repo: "hexpm", optional: false]}], "hexpm", "52b6b1c476cbb70fd899ca5394506482f12e5f6b0d6acff9df95c7f1e0812ec3"},
+  "nimble_options": {:hex, :nimble_options, "0.3.7", "1e52dd7673d36138b1a5dede183b5d86dff175dc46d104a8e98e396b85b04670", [:mix], [], "hexpm", "2086907e6665c6b6579be54ef5001928df5231f355f71ed258f80a55e9f63633"},
+  "prompt": {:hex, :prompt, "0.8.0", "6f2f62847ed099e2fcfe025ca7b586d7959cbc294e5edb8e9a94202c0d31d2e4", [:mix], [{:nimble_options, "~> 0.3.0", [hex: :nimble_options, repo: "hexpm", optional: false]}], "hexpm", "a615613f46e2b26651aa029b4bb4a54f5c50e37bc019250626ac49154395bcc7"},
+}
